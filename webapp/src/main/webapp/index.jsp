@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p> Hello TomJerry!!! Mumma loves you both</p>
+    <h1>I love you My Babies</h1>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
